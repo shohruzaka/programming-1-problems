@@ -1,0 +1,30 @@
+## Topshiriqlar
+
+1. Kvadratning tomoni a berilgan. Uning perimetri aniqlansin. 𝑃 = 4 ⋅ 𝑎
+2. Kvadratning tomoni a berilgan. Uning yuzasi aniqlansin. S = a * a
+3. To‘g‘ri to‘rtburchakning tomonlari a va b berilgan. Uning yuzasi 𝑆 = 𝑎 ⋅ 𝑏 va 𝑃 = 2 ⋅ ( 𝑎 + 𝑏 ) perimetri aniqlansin.
+4. Aylananing diametri d berilgan. Uning uzunligi aniqlansin. 𝐿 = 𝜋 ⋅ 𝑑 , 𝜋 = 3.14
+5. Kubning yon tomoni a berilgan. Uning hajmi aniqlansin.
+6. Paralelepipeding tomonlari a, b, c berilgan. Uning hajmi *V* va to‘la sirti 𝑆 aniqlansin.
+7. Doiraning radiusi R berilgan. Uning uzunligi 𝐿 L va yuzasi 𝑆 S aniqlansin. 
+8. Ikkita son a va b berilgan. Ularning o‘rta arifmetigi aniqlansin.
+9. Ikkita manfiy bo‘lmagan son a va b berilgan. Ularning o‘rta geometrigi aniqlansin.
+10. Nolga teng bo‘lmagan ikkita son berilgan. Ularning yig‘indisi, ko‘paytmasi va har birining kvadrati aniqlansin.
+11. Nolga teng bo‘lmagan ikkita son berilgan. Ularning yig‘indisi, ko‘paytmasi va har birining moduli aniqlansin.
+12. To‘g‘ri uchburchakning katetlari `a` va `b` berilgan. Uning gipotenuzasi `c` va perimetri `P` aniqlansin.
+13. Umumiy markazga bo‘lgan ikkita aylana radiusi berilgan 𝑅*1*, 𝑅2. Ularning yuzalari 𝑆*1*  va 𝑆2 ularning ayirmasi 𝑆*3*   aniqlansin.
+14. Aylananing uzunligi 𝐿 berilgan. Uning radiusi 𝑅 va yuzasi 𝑆 aniqlansin.
+15. Aylananing yuzasi 𝑆 berilgan. Uning diametri 𝑑 va radiusi 𝑅 aniqlansin.
+16. Sonlar o‘qida ikkita nuqta orasidagi masofa aniqlansin.
+17. Sonlar o‘qida A, B, C nuqtalar berilgan. AC va BC kesmalarning uzunligini va kesmalar uzunligining yig‘indisini topuvchi dastur tuzilsin.
+18. Sonlar o‘qida A, B, C nuqtalar berilgan. C nuqta A va B nuqtalar orasida joylashgan. AC va BC kesmalar uzunligining ko‘paytmasi topilsin.
+19. To‘g‘ri to‘rtburchakning qarama-qarshi uchlari koordinatalari berilgan. Uning tomonlari koordinata o‘qiga parallel. To‘g‘ri to‘rtburchakning perimetri va yuzasi aniqlansin.
+20. Tekislikdagi berilgan ikki nuqta ( 𝑥 1 , 𝑦 1 ) va ( 𝑥 2 , 𝑦 2 ) orasidagi masofa topilsin.
+21. Hafta kunlari quyidagicha tartibda berilgan:
+1-dushanba, 2-seshanba, 3-chorshanba, 4-payshanba, 5-juma, 6-shanba, 7-yakshanba.
+1–365 oraliqda yotuvchi K soni berilgan. 
+Agar 1-yanvar yakshanba bo‘lsa, kiritilgan K – kun haftaning qaysi kuniga to‘g‘ri kelishini aniqlovchi dastur tuzilsin.
+22. Hafta kunlari quyidagicha tartibda berilgan:
+1-dushanba, 2-seshanba, 3-chorshanba, 4-payshanba, 5-juma, 6-shanba, 7-yakshanba.
+N – 1 dan 7 gacha bo‘lgan hafta kunlari soni. 1–365 oraliqda yotuvchi KKK soni berilgan.
+Agar 1-yanvar N-chi kunga to‘g‘ri kelsa, kiritilgan K – kun haftaning qaysi kuniga to‘g‘ri kelishini aniqlovchi dastur tuzilsin.

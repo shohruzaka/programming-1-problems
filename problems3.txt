@@ -1,0 +1,63 @@
+# Topshiriqlar
+
+Mantiqiy operatorlar bilan ishlash
+
+1. Ikkita butun A va B sonlari berilgan. Jumlani rostlikka tekshiring: "A >= 0 yoki B < -2".
+2. Uchta A, B, C butun sonlar berilgan. Jumlani rostlikka tekshiring: "A <= B <= C".
+3. Uchta A, B, C butun sonlar berilgan. Jumlani rostlikka tekshiring: "B soni A va C sonlari orasida yotadi".
+4. Ikkita butun A va B sonlari berilgan. Jumlani rostlikka tekshiring: "A va B sonlari toq sonlar".
+5. Ikkita butun A va B sonlari berilgan. Jumlani rostlikka tekshiring: "A va B sonlarning hech bo'lmaganda bittasi toq son".
+6. Ikkita butun A va B sonlari berilgan. Jumlani rostlikka tekshiring: "A va B sonlarning faqat bittasi toq son".
+7. Ikkita butun A va B sonlari berilgan. Jumlani rostlikka tekshiring: "A va B sonlarining har ikkalasi ham yoki toq son yoki juft son".
+8. Uchta A, B, C butun sonlar berilgan. Jumlani rostlikka tekshiring: "A, B, C sonlarning har biri musbat".
+9. Uchta A, B, C butun sonlar berilgan. Jumlani rostlikka tekshiring: "A, B, C sonlarning hech bo'lmaganda bittasi musbat".
+10. Uchta A, B, C butun sonlar berilgan. Jumlani rostlikka tekshiring: "A, B, C sonlardan faqat bittasi musbat son".
+11. Uchta A, B, C butun sonlar berilgan. Jumlani rostlikka tekshiring: "A, B, C sonlardan faqat ikkitasi musbat son".
+12. Musbat butun son berilgan. Jumlani rostlikka tekshiring: "Berilgan son ikki xonali juft son".
+13. Musbat butun son berilgan. Jumlani rostlikka tekshiring: "Berilgan son uch xonali toq".
+14. Jumlani rostlikka tekshiring: "Berilgan uchta butun sonlaming hech bo'lmaganda 2 tasi bir biriga teng".
+15. Jumlani rostlikka tekshiring: "Berilgan uchta butun sonlarning hech bo'lmaganda bir jufti o'zaro qarama-qarshi".
+
+Shart operatorlari bilan ishlash
+
+1.  Uchta butun son berilgan. Shu sonlar orasidan nechta musbat va manfiy son borligini aniqlovchi programma tuzilsin.
+2. Ikkita butun son berilgan. Shu sonlarning kattasini aniqlovchi programma tuzilsin.
+3. Uchta son berilgan. Shu sonlarni kichigini aniqlovchi programma tuzilsin.
+4. Uchta son berilgan. Shu sonlarni avval kichigini keyin kattasini ekranga chiqaruvchi programma tuzilsin.
+5. Havo harorati (`T`) butun son ko'rinishida beriladi. Agar harorat 20 gradusdan yuqori bo'lsa, ekranga "Bugun sayr qilish uchun ajoyin kun!", aks holda "Bugun uyda o'tirgan ma'qul." degan yozuvni chiqaring.
+6. Foydalanuvchi login va parol kiritadi. Agar kiritilgan login "admin" va parol "12345" bo'lsa, ekranga "Xush kelibsiz, admin!", aks holda "Login yoki parol xato!" degan xabarni chiqaring.
+7. Xaridorning savdo miqdori (`summa`) kiritiladi. Agar xarid miqdori 500,000 so'mdan oshsa, unga 10% chegirma qo'llanilishini va yakuniy to'lov miqdorini ekranga chiqaring. Aks holda, chegirmasiz to'lov miqdorini chiqaring.
+8. Talabaning imtihondan to'plagan bali (0 dan 100 gacha) kiritiladi. Shu balga ko'ra uning bahosini chiqaring:
+    - 86 - 100: "A'lo"
+    - 71 - 85: "Yaxshi"
+    - 55 - 70: "Qoniqarli"
+    - 55 dan past: "Qoniqarsiz (Yiqildingiz)"
+9. Yil kiritiladi. Ushbu yilning kabisa yili ekanligini tekshiring. Kabisa yili quyidagi shartlarga bo'ysunadi:
+    - Yil 4 ga bo'linadi, lekin 100 ga bo'linmaydi.
+    - YOKI yil to'g'ridan-to'g'ri 400 ga bo'linadi.
+    - **Natija:** "Kabisa yili" yoki "Kabisa yili emas" deb ekranga chiqaring.
+10. Uchta kesma uzunliklari (`a`, `b`, `c`) kiritiladi. Shu kesmalardan uchburchak yasash mumkinmi yoki yo'qligini tekshiring. Uchburchakning mavjud bo'lish sharti: har qanday ikki tomonining yig'indisi uchinchi tomondan katta bo'lishi kerak.
+11. Kvadrat tenglama (ax2+bx+c=0) koeffitsiyentlari `a`, `b`, `c` kiritiladi. Shu tenglamaning ildizlari sonini aniqlang va ekranga chiqaring:
+    - Agar diskriminant (D=b2−4ac) noldan katta bo'lsa: "Tenglama ikkita haqiqiy ildizga ega".
+    - Agar diskriminant nolga teng bo'lsa: "Tenglama bitta haqiqiy ildizga ega".
+    - Agar diskriminant noldan kichik bo'lsa: "Tenglama haqiqiy ildizlarga ega emas".
+12. Foydalanuvchi bir oyda necha daqiqa gaplashishi (`daqiqa`) va necha gigabayt internet ishlatishi (`gb`) haqida ma'lumot kiritadi. Kompaniya uchta tarif taklif qiladi:
+    - **"Oddiy" tarif:** Oyiga 20,000 so'm. 200 daqiqa va 5 GB beriladi. Limidan oshsa har bir daqiqa 100 so'm, har bir GB 5,000 so'm.
+    - **"Aktiv" tarif:** Oyiga 50,000 so'm. 1000 daqiqa va 20 GB beriladi. Limidan oshsa har bir daqiqa 80 so'm, har bir GB 4,000 so'm.
+    - **"Premium" tarif:** Oyiga 100,000 so'm. Cheksiz daqiqa va 50 GB beriladi. Limidan oshsa har bir GB 3,000 so'm.
+    - **Vazifa:** Foydalanuvchi uchun qaysi tarif eng arzon tushishini hisoblab, "Siz uchun eng qulay tarif: [tarif_nomi]" deb ekranga chiqaradigan dastur tuzing.
+
+**switch/case opearatori bilan ishlashga oid masalalar**
+
+1. 1 dan 7 gacha bo'lgan butun son kiritiladi. Kiritilgan songa mos hafta kunini so'z bilan (Dushanba, Seshanba, ...) ekranga chiqaring. Agar 1-7 oraliqdan boshqa son kiritilsa, "Bunday hafta kuni mavjud emas" degan xabarni `default` holatida chiqaring.
+2. Oyning tartib raqami (1-12) kiritiladi. Shu oy qaysi faslga tegishli ekanligini aniqlang.
+    - 12, 1, 2 -> "Qish"
+    - 3, 4, 5 -> "Bahor"
+    - 6, 7, 8 -> "Yoz"
+    - 9, 10, 11 -> "Kuz"
+3. Ikkita son (`a`, `b`) va ular ustida bajariladigan arifmetik amal belgisi (`+`, `-`, `*`, `/`) kiritiladi. `switch-case` yordamida amalni bajaring va natijani ekranga chiqaring.
+4. Imtihon bahosi harf bilan kiritiladi ('A', 'B', 'C', 'D', 'F'). Ushbu bahoga mos ballar oralig'ini ekranga chiqaring.
+    - 'A' -> "86-100 ball"
+    - 'B' -> "71-85 ball"
+    - 'C' -> "55-70 ball"
+    - 'D', 'F' -> "55 balldan past" (ikkita `case` uchun bitta natija)
